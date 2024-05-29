@@ -28,4 +28,3 @@ This project is a simple comment box application where users can share their exp
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any bugs, feel free to open an issue or submit a pull request.
 
-**Repository Name Suggestion:** 🌟2024-CommentBox-Experience🌟
