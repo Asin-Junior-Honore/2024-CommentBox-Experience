@@ -26,5 +26,5 @@ This project is a simple comment box application where users can share their exp
 6. Launch the application by running your local server.
 
 ## Contributing
-Contributions are welcome! If you have any ideas for improvement or find any bugs, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have any ideas for improvement or find any bugs, feel free to open an issue or submit a pull request. Happy coding✌️💫
 
